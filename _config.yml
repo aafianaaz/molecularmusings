@@ -1,6 +1,17 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-minimal
+title: Molecular Musings
+author: Aafia Naaz Siddiqui
+tagline: MS - Biological Science & CIRM Bridges Stem Cell Program - San Jose State University | Research Intern in Majeti Lab - Stanford School of Medicine
+logo: "C:\Users\Aafia Naaz Siddiqui\Pictures\Aafia's Professioanl Headshot.jpeg"
+description: Molecular experiments, scientific musings, and everything in between...
+# Social links
+LinkedIn: https://www.linkedin.com/in/aafianaaz/
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Navigation links
+header_pages:
+  - about.md
+  - blog.md
